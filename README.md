@@ -53,6 +53,6 @@ Run this from the folder containing both files.
 ## Group members
 
 - Nelisa
-- _Member 2_
-- _Member 3_
-- _Member 4_
+- Lebo
+- Firidaus
+- Muranwa
