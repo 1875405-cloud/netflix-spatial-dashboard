@@ -52,7 +52,7 @@ Run this from the folder containing both files.
 
 ## Group members
 
-- Nelisa
-- Lebo
-- Firidaus
-- Muranwa
+- Nelisa Nxumalo (1875405)
+- Moleboge Makushu (1673095)
+- Firidaus Mononyane (2657488)
+- Muranwa Munzhelele (2737955)
